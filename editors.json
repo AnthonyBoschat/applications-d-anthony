@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "editors": [
+    {
+      "id": "proprietaire",
+      "name": "Applications d'Anthony",
+      "key": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "sTCc15XuapnoASnKl2GX_DLiXQTLYAxbTCbo-btMiR8",
+        "y": "U1uL1Ht9mj8lPF6-XCidSOhpZ0cgzBNdL9i5EGDhSCE"
+      }
+    }
+  ]
+}

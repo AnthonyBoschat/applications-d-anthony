@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "id": "applications-d-anthony",
+  "name": "Applications d'Anthony",
+  "ownerKey": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "sTCc15XuapnoASnKl2GX_DLiXQTLYAxbTCbo-btMiR8",
+    "y": "U1uL1Ht9mj8lPF6-XCidSOhpZ0cgzBNdL9i5EGDhSCE"
+  },
+  "createdAt": "2026-11-13T09:37:52.523Z"
+}
